@@ -8,7 +8,7 @@ public class idwisewithhashmap_2 {
     public static void main(String[] args) {
 
         // Creating File object to access the text file
-        File f1 = new File("E:\\inayah\\SalesEVESession.txt");
+        File f1 = new File("E:\\Abiha\\SalesEVESession.txt");
 
         // Scanner object for reading file data
         Scanner inp;
