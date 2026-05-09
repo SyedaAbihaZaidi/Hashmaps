@@ -8,7 +8,7 @@ public class idwisewithouthashmap_2 {
         try {
 
             // Creating file object
-            File file = new File("E:\\inayah\\SalesEVESession.txt");
+            File file = new File("E:\\Abiha\\SalesEVESession.txt");
 
             // Scanner object to read file
             Scanner sc = new Scanner(file);
