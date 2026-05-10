@@ -28,7 +28,7 @@ The programs are implemented using:
 All programs read data from:
 
 ```text
-E:\inayah\SalesEVESession.txt
+E:\Abiha\SalesEVESession.txt
 ```
 
 The file should contain tab-separated sales records.
